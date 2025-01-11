@@ -1,0 +1,5 @@
+0 Beagle
+1 Chihuahua
+2 Golden retriever
+3 Pastor alemán
+4 Rottweiler
